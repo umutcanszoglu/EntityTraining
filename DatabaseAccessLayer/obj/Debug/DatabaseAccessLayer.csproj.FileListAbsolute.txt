@@ -1,0 +1,12 @@
+C:\Users\umutc\source\repos\Web\DatabaseAccessLayer\bin\Debug\DatabaseAccessLayer.dll.config
+C:\Users\umutc\source\repos\Web\DatabaseAccessLayer\bin\Debug\DatabaseAccessLayer.dll
+C:\Users\umutc\source\repos\Web\DatabaseAccessLayer\bin\Debug\DatabaseAccessLayer.pdb
+C:\Users\umutc\source\repos\Web\DatabaseAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\umutc\source\repos\Web\DatabaseAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\umutc\source\repos\Web\DatabaseAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\umutc\source\repos\Web\DatabaseAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\umutc\source\repos\Web\DatabaseAccessLayer\obj\Debug\DatabaseAccessLayer.csproj.AssemblyReference.cache
+C:\Users\umutc\source\repos\Web\DatabaseAccessLayer\obj\Debug\DatabaseAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\umutc\source\repos\Web\DatabaseAccessLayer\obj\Debug\DatabaseAccessLayer.csproj.CopyComplete
+C:\Users\umutc\source\repos\Web\DatabaseAccessLayer\obj\Debug\DatabaseAccessLayer.dll
+C:\Users\umutc\source\repos\Web\DatabaseAccessLayer\obj\Debug\DatabaseAccessLayer.pdb
